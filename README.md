@@ -35,9 +35,8 @@ We extended the [CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) repo with our met
 
 If you find the code useful in your research, please consider citing our paper:
 
-    
 <pre>
-@article{sarfraz2022synergy,
+    @article{sarfraz2022synergy,
   title={SYNERgy between SYNaptic consolidation and Experience Replay for general continual learning},
   author={Fahad Sarfraz and Elahe Arani and Bahram Zonooz},
   journal={arXiv preprint arXiv:2206.04016},
