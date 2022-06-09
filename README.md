@@ -1,5 +1,5 @@
 # SYNERgy 
-Official Repository for CoLLAs 2022 paper "SYNERgy between SYNaptic consolidation and Experience Replay for general continual learning".
+Official Repository for CoLLAs 2022 paper "[SYNERgy between SYNaptic consolidation and Experience Replay for general continual learning](https://arxiv.org/pdf/2206.04016.pdf)".
 
 We extended the [CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) repo with our method (SYNERgy).
 
