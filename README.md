@@ -41,5 +41,5 @@ If you find the code useful in your research, please consider citing our paper:
   author={Fahad Sarfraz and Elahe Arani and Bahram Zonooz},
   journal={arXiv preprint arXiv:2206.04016},
   year={2022}
-}    
+}
 </pre>
